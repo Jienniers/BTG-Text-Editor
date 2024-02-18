@@ -1,7 +1,7 @@
 
 # Text Editor
 
-A Text Editor Made in C++ Winforms with multiple features
+A Text Editor Made in C++ with multiple features
 
 
 ## Installation
