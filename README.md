@@ -24,8 +24,7 @@ A Text Editor Made in C++ with multiple features
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200459305250459739/image.png)
-
+![App Screenshot](https://github.com/Jienniers/BTG-Text-Editor/blob/main/Screenshots/image.png)
 
 ## Authors
 
