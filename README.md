@@ -25,13 +25,6 @@ A Text Editor Made in C++ with multiple features
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200459305250459739/image.png)
-![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200462239233232926/image.png)
-![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200462491122159707/image.png)
-![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200462637675315320/image.png)
-![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200462863291138078/image.png)
-![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200463087933870190/image.png)
-![App Screenshot](https://cdn.discordapp.com/attachments/1074754322585366671/1200464972354953318/image.png)
-
 
 
 ## Authors
