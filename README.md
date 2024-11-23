@@ -3,11 +3,6 @@
 
 A Text Editor Made in C++ with multiple features
 
-
-## Installation
-
-if you dont have visual studio or C++ compiler you can just run the compiled exe in BTG_Text_Power\x64\Release
-
     
 ## Features
 
@@ -24,7 +19,7 @@ if you dont have visual studio or C++ compiler you can just run the compiled exe
 - Custom MenuStrip
 
 
-![Logo](https://cdn.discordapp.com/attachments/1074754322585366671/1200459813906296872/text-editor_2-2.png)
+![Logo](https://github.com/Jienniers/BTG-Text-Editor/blob/main/icons/text-editor%20(2).ico)
 
 
 ## Screenshots
@@ -41,10 +36,9 @@ if you dont have visual studio or C++ compiler you can just run the compiled exe
 
 ## Authors
 
-- [@Drew101](https://github.com/JustinDrew101)
+- [@Jienniers](https://github.com/Jienniers/)
 
 
-## Feedback
+## Support
 
-If you have any feedback, please reach out to us at codeMaestroy105@outlook.com
-
+If you encounter any issues or have suggestions for improvement, please submit an issue on the GitHub repository.
